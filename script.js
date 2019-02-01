@@ -1,3 +1,6 @@
+$(".tuw").click(function() {
+    $(".wut").toggle();
+});
 $(".nigfruits").click(function() {
     window.close();
 });
